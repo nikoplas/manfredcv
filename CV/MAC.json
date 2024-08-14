@@ -1,0 +1,285 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nicolas",
+      "surnames": "Amigo Lorente",
+      "title": "SOA Architect | Project Manager | Full-Stack Developer | MBA",
+      "description": "Con más de una década de trayectoria profesional, actualmente me desempeño como Arquitecto Superior de Soluciones, donde mi competencia en programación orientada a objetos y mi dominio sobre un amplio abanico de lenguajes y tecnologías me permite abordar multitud de proyectos tecnológicos enfocados principalmente en cloud y microservicios. Anteriormente, fortalecí mi perfil técnico y analítico en roles como Analista, Consultor y Project Manager en Accenture y Optimissa (Alten). Mi misión es impulsar la innovación tecnológica y aportar soluciones eficientes que respalden los objetivos estratégicos de la empresa. Valoro la colaboración, la excelencia técnica y la adaptabilidad, cualidades que me permiten contribuir al crecimiento y la transformación digital en nuestra organización.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/a4fa228a-d1e4-4cfd-a134-b179aebe9022_linkedin-photo-63893.linkedin-photo-63893",
+        "alt": "24/08/14/a4fa228a-d1e4-4cfd-a134-b179aebe9022_linkedin-photo-63893.linkedin-photo-63893"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
+        "country": "España",
+        "region": "Community of Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/nicolas-amigo-lorente"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Optimissa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/1957a9b1-3955-478c-8ae2-88c339745938_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/1957a9b1-3955-478c-8ae2-88c339745938_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto superior de soluciones",
+            "startDate": "2022-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Snap Consulting",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/2745ea7d-de64-423a-8a5b-1e6384f05af9_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/2745ea7d-de64-423a-8a5b-1e6384f05af9_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de proyecto",
+            "startDate": "2015-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/c27f96c8-ffff-4bd9-ab01-e70eae754cac_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/c27f96c8-ffff-4bd9-ab01-e70eae754cac_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor",
+            "startDate": "2009-07-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Siebel · Oracle · Business Intelligence · Consultoría de TI · Linux · Red Hat Linux · Java · COBOL · Mainframe de IBM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/57be4be2-eba2-42d4-ba00-aad4f0e0c020_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/57be4be2-eba2-42d4-ba00-aad4f0e0c020_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista de programación",
+            "startDate": "2009-01-01",
+            "finishDate": "2009-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Unix · Linux · Oracle · Siebel"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ONO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/f3c4c453-66f4-46c6-9a9c-e40db92edb45_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/f3c4c453-66f4-46c6-9a9c-e40db92edb45_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador informático",
+            "startDate": "2006-09-01",
+            "finishDate": "2007-06-30",
+            "challenges": [
+              {
+                "description": "Contrato de prácticas en el Departamento de Calidad de Red de la empresa Cableuropa SAU (ONO) en Madrid. Realizando diferentes tareas como programador y administrador de sistemas, gestión de alertas, generación de informes, etc ... 9 meses. Tecnologías principales: SQL Server, Visual Basic y .net. Sistemas Windows Server"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CRM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Project",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Superior en Informática, Ingeniería informática",
+        "startDate": "2002-09-01",
+        "institution": {
+          "name": "Universidad CEU San Pablo"
+        },
+        "finishDate": "2007-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Consultoría en Gestión de Empresas, Consultoría y gestión de empresas",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/14/b1a508f9-c503-486a-b0f0-8acf630144f7_linkedin-photo-63893.linkedin-photo-63893",
+            "alt": "24/08/14/b1a508f9-c503-486a-b0f0-8acf630144f7_linkedin-photo-63893.linkedin-photo-63893"
+          }
+        },
+        "finishDate": "2013-06-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/nicolas-amigo-lorente",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "nicolas.amigo.lorente@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
