@@ -724,6 +724,11 @@
         "nicolas.amigo.lorente@gmail.com"
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Software Architect"
+      ]
+    },
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
