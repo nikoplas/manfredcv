@@ -724,7 +724,12 @@
         "nicolas.amigo.lorente@gmail.com"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
