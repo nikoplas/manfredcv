@@ -726,6 +726,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "IT Manager",
         "Implementation & Solutions Engineer",
         "Software Architect",
         "Tech Lead"
