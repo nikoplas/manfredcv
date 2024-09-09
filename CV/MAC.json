@@ -146,6 +146,168 @@
       },
       {
         "skill": {
+          "name": ".NET MAUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ADO.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Aurora",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFormation",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFront",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS ECS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EKS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS ElastiCache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS IAM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS SNS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS SageMaker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apigee",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AsyncAPI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure CosmosDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure DevOps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure Functions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
@@ -164,7 +326,37 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CakePHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
           "type": "technology"
         }
       },
@@ -176,13 +368,85 @@
       },
       {
         "skill": {
+          "name": "Google Kubernetes Engine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HapiJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "J2EE",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JBoss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Jamstack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasper Reports",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaFX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
           "type": "technology"
         }
       },
@@ -200,13 +464,115 @@
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
+          "name": "Microsoft SQL Integration Services (SSIS)",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Project",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle Data Visualization",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPStorm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postfix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOAP",
           "type": "technology"
         }
       },
@@ -218,7 +584,43 @@
       },
       {
         "skill": {
+          "name": "SQLAlchemy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SoapUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Transact-SQL (T-SQL)",
           "type": "technology"
         }
       },
@@ -230,13 +632,55 @@
       },
       {
         "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaPHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Basic",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zapier",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ext.NET",
           "type": "technology"
         }
       }
@@ -281,5 +725,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "SOA",
+        "type": "technology"
+      }
+    ]
   }
 }
